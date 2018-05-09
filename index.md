@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: homepage
+layout: default
 ---
 
 # {{ page.title }}
