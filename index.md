@@ -1,8 +1,14 @@
 ---
-title: My page
+title: Home
 layout: homepage
 ---
 
 # {{ page.title }}
 
-Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
+I am a programmer & violinist currently living in Plano, Texas as a student.
+
+If you want to get in touch with me, [Emailing](jimmyguding@gmail.com) me is best.
+
+---
+
+[Github](https://github.com/PotatosFish)
