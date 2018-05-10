@@ -3,12 +3,10 @@ title: Home
 layout: default
 ---
 
-# {{ page.title }}
+<p style="text-align: center;">I am a programmer & violinist currently living in Plano, Texas as a student.</p>
 
-I am a programmer & violinist currently living in Plano, Texas as a student.
-
-If you want to get in touch with me, [Emailing](jimmyguding@gmail.com) me is best.
+<p style="text-align: center;">If you want to get in touch with me, <a href="mailto:jimmyguding@gmail.com">Emailing</a> me is best.</p>
 
 ---
 
-[Github](https://github.com/PotatosFish)
+<p style="text-align: center;"><a href="https://github.com/PotaosFish">GitHub</a></p>
