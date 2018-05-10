@@ -9,4 +9,4 @@ layout: default
 
 ---
 
-<p style="text-align: center;"><a href="https://github.com/PotaosFish">GitHub</a></p>
+<p style="text-align: center;"><a href="https://github.com/PotatosFish">GitHub</a></p>
