@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home(WIP)
 layout: default
 ---
 
@@ -14,10 +14,3 @@ layout: default
 ---
 
 <p class="center"><a href="posts.html">Posts</a></p>
-
----
-
-<div class="center"><button class="button" onclick='location.href="http://google.com";'><span>Hover</span></button></div>
-
-<p>Name: <input type="text" ng-model="name"></p>
-<p>You wrote: {{ name }}</p> 
